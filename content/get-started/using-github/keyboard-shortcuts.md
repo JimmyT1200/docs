@@ -1,4 +1,4 @@
----
+Uh---
 title: Keyboard shortcuts
 intro: 'Nearly every page on {% data variables.product.prodname_dotcom %} has a keyboard shortcut to perform actions faster.'
 redirect_from:
